@@ -43,6 +43,9 @@ body {
      font-family: 'Raleway', sans-serif;
      line-height: 1.80857;
      font-weight: normal;
+     display:flex;
+     justify-content:center;
+     align-items:center;
 }
 
 a {
